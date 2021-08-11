@@ -73,12 +73,12 @@ def start(update, context):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('⚠️ Disclaimer', url='https://t.me/ZauteKm/353'),
-                    InlineKeyboardButton('Source 🙄', url='https://t.me/iZaute/7')
+                    InlineKeyboardButton('⚠️ Disclaimer', url='https://t.me/KANNADAMOVIES_17'),
+                    InlineKeyboardButton('Source 🙄', url='https://t.me/KANNADAMOVIES_17')
               ],[
-                    InlineKeyboardButton('🤖 Bot Lists', url='https://t.me/iZaute/8'),
-                    InlineKeyboardButton('👥 Group', url='https://t.me/iZaute/5'),
-                    InlineKeyboardButton('Channel 📢', url='https://t.me/iZaute/6')
+                    InlineKeyboardButton('🤖 Bot Lists', url='https://t.me/searchkannadamovies'),
+                    InlineKeyboardButton('👥 Group', url='https://t.me/searchkannadamovies'),
+                    InlineKeyboardButton('Channel 📢', url='https://t.me/KANNADAMOVIES_17')
               ],[
                     InlineKeyboardButton('⚜️ Subscribe Now YouTube ⚜️', url='https://youtube.com/c/ZauteKm')
                ]
@@ -183,12 +183,12 @@ def input_tg_code(update, context):
                 reply_markup=InlineKeyboardMarkup(
                     [
                          [
-                               InlineKeyboardButton('⚠️ Disclaimer', url='https://t.me/ZauteKm/353'),
-                               InlineKeyboardButton('Source 🙄', url='https://t.me/iZaute/7')
+                               InlineKeyboardButton('⚠️ Disclaimer', url='https://t.me/searchkannadamovies'),
+                               InlineKeyboardButton('Source 🙄', url='https://t.me/KANNADAMOVIES_17')
                        ],[
-                               InlineKeyboardButton('🤖 Bot Lists', url='https://t.me/iZaute/8'),
-                               InlineKeyboardButton('👥 Group', url='https://t.me/iZaute/5'),
-                               InlineKeyboardButton('Channel 📢', url='https://t.me/iZaute/6')
+                               InlineKeyboardButton('🤖 Bot Lists', url='https://t.me/searchkannadamovies'),
+                               InlineKeyboardButton('👥 Group', url='https://t.me/searchkannadamovies'),
+                               InlineKeyboardButton('Channel 📢', url='https://t.me/KANNADAMOVIES_17')
                        ],[
                                InlineKeyboardButton('⚜️ Subscribe Now YouTube ⚜️', url='https://youtube.com/c/ZauteKm')
                         ]
