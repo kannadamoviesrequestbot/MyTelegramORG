@@ -3,7 +3,7 @@ from translation import Translation
 
 class Config(object):
     # get a token from @BotFather
-    TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "1829769290:AAFoCqxuOc3z3vxTUmAkViXG64aFOrLsGTA
+    TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "1925125166:AAESjCLxRz_4RvSoLR6yBM9kMlNlcNo7oxE
     # required for running on Heroku
     URL = os.environ.get("URL", "")
     PORT = int(os.environ.get("PORT", 5000))
@@ -31,7 +31,7 @@ class Config(object):
     # https://github.com/LushaiTech/MyTelegramORG/issues/3
     APP_DESCRIPTION = os.environ.get("APP_DESCRIPTION", "created using https://telegram.dog/UseTGzKbot")
     #
-    FOOTER_TEXT = os.environ.get("FTEXT", "Please Subscribe ❤️ @ZauteKm")
+    FOOTER_TEXT = os.environ.get("FTEXT", "Please Subscribe ❤️ @beereshbanakards)
     # the strings used in the different messages
     # in the bot
     START_TEXT = os.environ.get("START_TEXT", Translation.START_TEXT)
