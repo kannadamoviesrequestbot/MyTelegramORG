@@ -10,7 +10,7 @@
 
 <b>Deploy on Heroku</b>
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/ZauteKm/MyTelegramORG">
+  <a href="https://heroku.com/deploy?template=https://github.com/kannadamoviesrequestbot">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
@@ -48,16 +48,16 @@ pip install -r requirements.txt
 python3 bot.py
 ```
 
-## [@ZauteKm](https://t.me/iZaute/6)
+## [@beereshbanakards](https://t.me/KANNADAMOVIES_17)
 
-- Only `TG_BOT_TOKEN` environment variables is mandatory.
+- Only `BOT_TOKEN` environment variables is mandatory.
 - The Telegram RoBot should work without setting the non-mandatory variables.
-- Please report any issues to the support group: [@ZauteKm](https://t.me/iZaute/6)
+- Please report any issues to the support group: [@beereshbanakards](https://t.me/KANNADAMOVIES_17)
 
 
 ## learning
 
-check out the [helper_funcs](https://github.com/ZauteKm/MyTelegramORG/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
+check out the [helper_funcs](https://github.com/kannadamoviesrequestbot/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
 
 ## LICENSE
 [AGPLv3](https://github.com/ZauteKm/MyTelegramORG/tree/master/LICENSE)
