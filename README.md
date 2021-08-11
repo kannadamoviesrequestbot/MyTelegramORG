@@ -50,7 +50,7 @@ python3 bot.py
 
 ## [@beereshbanakards](https://t.me/KANNADAMOVIES_17)
 
-- Only `BOT_TOKEN` environment variables is mandatory.
+- Only `TG_BOT_TOKEN` environment variables is mandatory.
 - The Telegram RoBot should work without setting the non-mandatory variables.
 - Please report any issues to the support group: [@beereshbanakards](https://t.me/KANNADAMOVIES_17)
 
